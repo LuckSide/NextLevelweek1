@@ -30,6 +30,7 @@
         height: 100vh;
         background: url('../assets/home-background.svg') no-repeat;
         background-position: 35vw 100px;
+        /*troque o segundo valor se a página n estiver bem encaixada */
     }
     
     header {
